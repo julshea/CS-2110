@@ -1,5 +1,6 @@
 # CS-2110
-Work from CS 2110 (Software Developmemt Methods) at the University of Virginia
+Work from CS 2110 (Software Developmemt Methods) at the University of Virginia.
+
 Lab Descriptions:
 
 Lab 2: Writing whole classes that interact with eachother, by implementing book and person objects. Each person will keep track of which books they have read.
